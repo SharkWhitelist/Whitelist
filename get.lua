@@ -17,5 +17,5 @@
     "X-Amzn-Trace-Id": "Root=1-63dd0077-191aeff7554d7ab92d5d39c1"
   }, 
   "origin": "49.228.81.155", 
-  "url": "https://httpbin.org/get"
+  "url": "https://raw.githubusercontent.com/SharkWhitelist/Whitelist/main/get.lua"
 }
